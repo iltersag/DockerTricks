@@ -1,0 +1,8 @@
+docker ile jupyter notebook ve spark cluster çalıştırmak<br>
+
+chmod -R a+w /<some folder>/notebooks<br>
+
+docker run -it --rm -p 8888:8888 -p 4040:4040 -v /root/notebooks:/home/jovyan/work jupyter/all-spark-notebook start-notebook.sh --NotebookApp.token='' <br>
+
+ref <br>
+https://github.com/Paperspace/jupyter-docker-stacks/tree/master/all-spark-notebook <br>
