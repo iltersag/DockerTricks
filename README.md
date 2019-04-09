@@ -7,3 +7,6 @@ docker system prune -a<br>
 this command will cleaned up all the unused space.
 
 https://linuxconfig.org/how-to-remove-all-docker-images-stored-in-a-local-repository
+
+
+https://forums.docker.com/t/some-way-to-clean-up-identify-contents-of-var-lib-docker-overlay/30604
