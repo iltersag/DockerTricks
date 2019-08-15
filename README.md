@@ -10,3 +10,5 @@ https://linuxconfig.org/how-to-remove-all-docker-images-stored-in-a-local-reposi
 
 
 https://forums.docker.com/t/some-way-to-clean-up-identify-contents-of-var-lib-docker-overlay/30604
+
+https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/
